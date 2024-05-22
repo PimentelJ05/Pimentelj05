@@ -1,5 +1,10 @@
 <h1 align="center">System.out.println ("I'm Julia Pimentel")</h1>
-<h3 align="center">a young girl who dream about being something in a place full of boys i wanna leave my mark</h3>
+<h3 align="center">public class Trailblazer {
+    public static void main(String[] args) {
+        System.out.println("In a sea of coders, a young girl dreams big. Leaving her mark, one line at a time.");
+    }
+}
+</h3>
 
 - 🌱 I’m currently learning **java, ux, ia, php**
 
