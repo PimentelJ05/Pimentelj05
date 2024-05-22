@@ -1,9 +1,6 @@
 <h1 align="center">System.out.println ("I'm Julia Pimentel")</h1>
-<h3 align="center">public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("In a sea of coders, a young girl dreams big. Leaving her mark, one line at a time.");
-    }
-}
+<h3 align="center">"In a sea of coders, a young girl dreams big. Leaving her mark, one line at a time.
+   
 </h3>
 
 - 🌱 I’m currently learning **java, ux, ia, php**
