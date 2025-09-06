@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8;">
-  Hello, World! It's Júlia here 👩🏻‍💻💻
-</h1>
-
 <div align="center">
   <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="200"/>
 </div>
+
+<h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8;">
+  Hello, World! It's Júlia here 👩🏻‍💻💻
+</h1>
 
 <hr style="border:1px solid #5067D8; width:50%;">
 
