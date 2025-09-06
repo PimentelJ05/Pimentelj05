@@ -1,62 +1,54 @@
 <br clear="both">
 
 <h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8;">
-  Hello, World! I'm Júlia 👩🏻‍💻💻
+  Hello, World! It's Júlia here 👩🏻‍💻💻
 </h1>
 
-###
+<hr style="border:1px solid #5067D8; width:50%;">
 
-<p align="center" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
-I'm a developer and lifelong learner, passionate about <b style="color:#E846D4;">data</b> and tech. 
-Every challenge is a chance to <b style="color:#5067D8;">grow</b>, <b style="color:#E846D4;">create</b>, and make something meaningful.
+<p align="left" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
+I'm a developer and lifelong learner, passionate about <span style="color:#E846D4;">data</span> and tech. 
+For me, every challenge is a chance to <span style="color:#5067D8;">grow</span>, <span style="color:#E846D4;">create</span>, and make something meaningful.
 </p>
 
-###
+<hr style="border:1px solid #5067D8; width:50%;">
 
 <h2 align="left" style="color:#DDE6F8;">✨ A Little About Me</h2>
 
 <p align="left" style="color:#a8aebf;">
 🐞 Creating bugs since 2005<br>
-📚 Currently learning <b>Systems Analysis and Development</b> at Centro Universitário Newton Paiva.<br>
-🎯 Goals: Keep growing in my career, inspire women in tech, and become a reference in my field.<br>
-🎲 Fun fact: I love <b>horror movies</b>, but only the truly scary ones!<br>
-❄️ Lover of winter and everything that challenges me to learn.
+📚 I'm currently learning Systems Analysis and Development, at Centro Universitário Newton Paiva.<br>
+🎯 Goals: To keep growing in my career, inspire more women to join tech, and become a strong reference in my field.<br>
+🎲 Fun fact: I love horror movies, but only the truly scary ones!.
 </p>
 
-###
+<hr style="border:1px solid #5067D8; width:50%;">
 
-<h2 align="center" style="color:#DDE6F8;">💻 Tech Stack & Tools</h2>
+<h2 align="center" style="color:#DDE6F8;">My code wizardry is powered by</h2>
 
-<div align="center">
-  <!-- Languages -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  <br><br>
-  
-  <!-- Databases -->
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  <br><br>
-  
-  <!-- IDEs & Tools -->
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-  
-  <br><br>
-  
-  <!-- Frontend -->
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
-###
+<hr style="border:1px solid #5067D8; width:50%;">
 
-<h2 align="center" style="color:#DDE6F8;">📫 Connect with Me</h2>
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -68,9 +60,7 @@ Every challenge is a chance to <b style="color:#5067D8;">grow</b>, <b style="col
   </a>
 </div>
 
-###
-
-<h2 align="center" style="color:#DDE6F8;">🎶 Currently Listening</h2>
+<hr style="border:1px solid #5067D8; width:50%;">
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=315tbzgrcy5lun2vx7txgb2g5upq&count=2" alt="Spotify recently played" />
