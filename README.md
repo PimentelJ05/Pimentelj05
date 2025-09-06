@@ -6,8 +6,6 @@
   <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="300" height="300" style="margin:0; padding:0;"/>
 </div>
 
-<hr style="border:1px solid #5067D8; width:50%;">
-
 <p align="left" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
 I'm a developer and lifelong learner, passionate about <span style="color:#E846D4;">data</span> and tech. 
 For me, every challenge is a chance to <span style="color:#5067D8;">grow</span>, <span style="color:#E846D4;">create</span>, and make something meaningful.
