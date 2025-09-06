@@ -1,73 +1,77 @@
 <br clear="both">
 
-<h1 align="center">Hello, World! It's Júlia here👩🏻‍💻💻</h1>
+<h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8;">
+  Hello, World! I'm Júlia 👩🏻‍💻💻
+</h1>
 
 ###
 
-<p align="left">I'm a developer and lifelong learner, from Brazil. With a love for both front-end and back-end, I aim to create seamless experiences and grow through every challenge I take on.</p>
+<p align="center" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
+I'm a developer and lifelong learner, passionate about <b style="color:#E846D4;">data</b> and tech. 
+Every challenge is a chance to <b style="color:#5067D8;">grow</b>, <b style="color:#E846D4;">create</b>, and make something meaningful.
+</p>
 
 ###
 
-<h2 align="left">A Little About Me</h2>
+<h2 align="left" style="color:#DDE6F8;">✨ A Little About Me</h2>
+
+<p align="left" style="color:#a8aebf;">
+🐞 Creating bugs since 2005<br>
+📚 Currently learning <b>Systems Analysis and Development</b> at Centro Universitário Newton Paiva.<br>
+🎯 Goals: Keep growing in my career, inspire women in tech, and become a reference in my field.<br>
+🎲 Fun fact: I love <b>horror movies</b>, but only the truly scary ones!<br>
+❄️ Lover of winter and everything that challenges me to learn.
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning Systems Analysis and Development, enhancing my skills in data analysis, Node.js, and front-end development.<br>🎯 Goals: To become a reference in my field, prove that women are just as welcome in tech, and maybe even build my own software someday.<br>🎲 Fun fact: I love horror movies, but only the truly scary ones! I can’t ride a bike, and I thrive on doing things I don’t know, as it pushes me to challenge myself and grow.</p>
+<h2 align="center" style="color:#DDE6F8;">💻 Tech Stack & Tools</h2>
 
-###
-
-<h2 align="center">My code wizardry is powered by</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <!-- Languages -->
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  <br><br>
+  
+  <!-- Databases -->
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  <br><br>
+  
+  <!-- IDEs & Tools -->
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  
+  <br><br>
+  
+  <!-- Frontend -->
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
 ###
 
-<div align="left">
+<h2 align="center" style="color:#DDE6F8;">📫 Connect with Me</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/julia___pimentel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://is.gd/QfJ6T1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ###
+
+<h2 align="center" style="color:#DDE6F8;">🎶 Currently Listening</h2>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=315tbzgrcy5lun2vx7txgb2g5upq&count=2" alt="Spotify recently played" />
 </div>
-
-###
