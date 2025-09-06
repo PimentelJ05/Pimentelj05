@@ -4,6 +4,10 @@
   Hello, World! It's Júlia here 👩🏻‍💻💻
 </h1>
 
+<div align="center">
+  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="200"/>
+</div>
+
 <hr style="border:1px solid #5067D8; width:50%;">
 
 <p align="left" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
