@@ -19,7 +19,7 @@ For me, every challenge is a chance to <span style="color:#5067D8;">grow</span>,
 🐞 Creating bugs since 2005<br>
 📚 I'm currently learning Systems Analysis and Development, at Centro Universitário Newton Paiva.<br>
 🎯 Goals: To keep growing in my career, inspire more women to join tech, and become a strong reference in my field.<br>
-🎲 Fun fact: I love horror movies, but only the truly scary ones!.
+🎲 Fun fact: I love horror movies, but only the truly scary ones!
 </p>
 
 <hr style="border:1px solid #5067D8; width:50%;">
