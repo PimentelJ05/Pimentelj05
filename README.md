@@ -2,8 +2,8 @@
   Hello, World! It's Júlia here 👩🏻‍💻💻
 </h1>
 
-<div align="center" style="margin-top:0;">
-  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="300" height="300" style="margin-top:0;"/>
+<div align="center" style="margin:0; padding:0;">
+  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="300" height="300" style="margin:0; padding:0;"/>
 </div>
 
 <hr style="border:1px solid #5067D8; width:50%;">
