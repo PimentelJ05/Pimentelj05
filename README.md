@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="200"/>
+  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="300" height="300"/>
 </div>
 
 <h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8;">
