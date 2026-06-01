@@ -1,91 +1,62 @@
-<br clear="both">
+# 👋 Hello, World! I'm Júlia Pimentel
 
-<!-- Título e Foto -->
-<h1 align="center" style="font-family:'Poppins', sans-serif; color:#DDE6F8; margin-bottom:5px;">
-  Hello, World! It's Júlia here 👩🏻‍💻💻
-</h1>
+🐞 Creating bugs since 2005
 
-<div align="center" style="margin:0; padding:0;">
-  <img src="./img/1000017836-Photoroom.png" alt="Minha Foto" width="300" height="300" style="margin:0; padding:0;"/>
-</div>
+📚 Currently studying **Systems Analysis and Development** at **Centro Universitário Newton Paiva**
 
-<hr style="border:1px solid #5067D8; width:50%; margin-top:10px; margin-bottom:10px;">
+🎯 Goals: Continuously grow in my career, inspire more women to join the tech industry, and become a recognized professional in my field.
 
-<!-- Sobre mim -->
-<p align="left" style="color:#a8aebf; font-family:'Poppins', sans-serif;">
-I'm a developer and lifelong learner, passionate about <span style="color:#E846D4;">data</span> and tech. 
-For me, every challenge is a chance to <span style="color:#5067D8;">grow</span>, <span style="color:#E846D4;">create</span>, and make something meaningful.
+🎲 Fun fact: I love horror movies — but only the genuinely terrifying ones.
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🛠️ IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+## 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+# 🎵 Recently Played on Spotify
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315tbzgrcy5lun2vx7txgb2g5upq&count=2" />
 </p>
 
-<hr style="border:1px solid #5067D8; width:50%; margin-top:10px; margin-bottom:10px;">
+---
 
-<!-- A Little About Me -->
-<h2 align="left" style="color:#DDE6F8;">✨ A Little About Me</h2>
+# 🌎 Connect With Me
 
-<p align="left" style="color:#a8aebf;">
-🐞 Creating bugs since 2005<br>
-📚 I'm currently learning Systems Analysis and Development, at Centro Universitário Newton Paiva.<br>
-🎯 Goals: To keep growing in my career, inspire more women to join tech, and become a strong reference in my field.<br>
-🎲 Fun fact: I love horror movies, but only the truly scary ones!
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julia___pimentel/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pugedoj@gmail.com)
 
-<hr style="border:1px solid #5067D8; width:50%; margin-top:10px; margin-bottom:10px;">
+---
 
-<!-- Tecnologias -->
-<h2 align="center" style="color:#DDE6F8;">My code wizardry is powered by</h2>
-
-<!-- Linguagens -->
-<h3 align="left" style="color:#a8aebf;">💻 Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-</div>
-
-<!-- Banco de Dados -->
-<h3 align="left" style="color:#a8aebf;">🗄 Databases</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
-
-<!-- IDEs -->
-<h3 align="left" style="color:#a8aebf;">🛠 IDEs</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-</div>
-
-<!-- Web -->
-<h3 align="left" style="color:#a8aebf;">🌐 Web</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
-
-<hr style="border:1px solid #5067D8; width:50%; margin-top:10px; margin-bottom:10px;">
-
-<!-- Redes Sociais -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/julia___pimentel/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<hr style="border:1px solid #5067D8; width:50%; margin-top:10px; margin-bottom:10px;">
-
-<!-- Spotify -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315tbzgrcy5lun2vx7txgb2g5upq&count=2" alt="Spotify recently played" />
-</div>
+> "The scariest bugs are the ones that work perfectly during the demo."
