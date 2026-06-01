@@ -6,7 +6,7 @@
 
 🎯 Goals: Continuously grow in my career, inspire more women to join the tech industry, and become a recognized professional in my field.
 
-🎲 Fun fact: I love horror movies — but only the genuinely terrifying ones.
+🎲 Fun fact: I love horror movies, but only the genuinely terrifying ones.
 
 ---
 
