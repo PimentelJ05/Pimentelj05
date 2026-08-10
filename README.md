@@ -2,7 +2,7 @@
 
 🐞 Creating bugs since 2005
 
-📚 Currently studying **Systems Analysis and Development** at **Centro Universitário Newton Paiva**
+📚 Graduated in **Systems Analysis and Development** at **Centro Universitário Newton Paiva**
 
 🎯 Goals: Continuously grow in my career, inspire more women to join the tech industry, and become a recognized professional in my field.
 
